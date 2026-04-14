@@ -1,5 +1,7 @@
 # MoveWindowVD
 
+[![MSBuild](https://github.com/yorgorgt/MoveWindowVD/actions/workflows/msbuild.yml/badge.svg)](https://github.com/yorgorgt/MoveWindowVD/actions/workflows/msbuild.yml)
+
 Windows 11 でアクティブウィンドウを隣の仮想デスクトップへ移動するユーティリティです。
 
 **Ctrl + Shift + Win + Left / Right** で、ウィンドウを左右の仮想デスクトップへ移動し、自動的にそのデスクトップへ切り替えます。
